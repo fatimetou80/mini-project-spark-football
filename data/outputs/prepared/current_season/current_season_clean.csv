@@ -1,0 +1,152 @@
+season,date,home_team,away_team,home_goals,away_goals,total_goals,goal_difference,result,match_year
+2025-2026,2026-04-25,Kaedi,Nouadhibou,0,1,1,-1,away_win,2026
+2025-2026,2026-04-24,SNIM,Nzeidane,1,1,2,0,draw,2026
+2025-2026,2026-04-13,Gendrim,Tevragh-Zeina,1,1,2,0,draw,2026
+2025-2026,2026-04-12,Nouakchott Academy,Police,0,0,0,0,draw,2026
+2025-2026,2026-04-11,Chemal,Douane,1,1,2,0,draw,2026
+2025-2026,2026-04-11,Kaedi,Nzeidane,2,2,4,0,draw,2026
+2025-2026,2026-04-11,SNIM,Nouakchott King's,1,3,4,-2,away_win,2026
+2025-2026,2026-04-10,Nouadhibou,Ksar,5,0,5,5,home_win,2026
+2025-2026,2026-04-09,Pompiers,Inter Nouakchott,3,1,4,2,home_win,2026
+2025-2026,2026-04-07,Douane,Nouakchott Academy,1,1,2,0,draw,2026
+2025-2026,2026-04-06,Gendrim,Kaedi,1,0,1,1,home_win,2026
+2025-2026,2026-04-05,Tevragh-Zeina,Inter Nouakchott,3,0,3,3,home_win,2026
+2025-2026,2026-04-04,Ksar,Chemal,1,0,1,1,home_win,2026
+2025-2026,2026-04-04,Police,SNIM,1,2,3,-1,away_win,2026
+2025-2026,2026-04-04,Nzeidane,Nouadhibou,2,1,3,1,home_win,2026
+2025-2026,2026-04-03,Nouakchott King's,Pompiers,0,0,0,0,draw,2026
+2025-2026,2026-03-15,Nouadhibou,Gendrim,3,1,4,2,home_win,2026
+2025-2026,2026-03-14,Inter Nouakchott,Nouakchott King's,0,2,2,-2,away_win,2026
+2025-2026,2026-03-14,Nouakchott Academy,Ksar,2,0,2,2,home_win,2026
+2025-2026,2026-03-13,Chemal,Nzeidane,2,0,2,2,home_win,2026
+2025-2026,2026-03-13,Pompiers,Police,1,0,1,1,home_win,2026
+2025-2026,2026-03-09,Gendrim,Chemal,2,1,3,1,home_win,2026
+2025-2026,2026-03-08,Police,Inter Nouakchott,0,0,0,0,draw,2026
+2025-2026,2026-03-08,Tevragh-Zeina,Nouakchott King's,2,2,4,0,draw,2026
+2025-2026,2026-03-07,Ksar,SNIM,2,2,4,0,draw,2026
+2025-2026,2026-03-07,Douane,Pompiers,2,1,3,1,home_win,2026
+2025-2026,2026-03-02,Nouadhibou,Tevragh-Zeina,0,0,0,0,draw,2026
+2025-2026,2026-03-02,Chemal,Kaedi,2,0,2,2,home_win,2026
+2025-2026,2026-03-01,Nouakchott King's,Police,0,2,2,-2,away_win,2026
+2025-2026,2026-03-01,Nouakchott Academy,Gendrim,1,1,2,0,draw,2026
+2025-2026,2026-02-28,Inter Nouakchott,Douane,2,3,5,-1,away_win,2026
+2025-2026,2026-02-28,Pompiers,Ksar,2,2,4,0,draw,2026
+2025-2026,2026-02-17,Tevragh-Zeina,Police,4,0,4,4,home_win,2026
+2025-2026,2026-02-16,Gendrim,SNIM,0,0,0,0,draw,2026
+2025-2026,2026-02-15,Nzeidane,Pompiers,0,1,1,-1,away_win,2026
+2025-2026,2026-02-15,Nouadhibou,Chemal,4,0,4,4,home_win,2026
+2025-2026,2026-02-14,Ksar,Inter Nouakchott,3,2,5,1,home_win,2026
+2025-2026,2026-02-14,Kaedi,Nouakchott Academy,1,0,1,1,home_win,2026
+2025-2026,2026-02-14,Douane,Nouakchott King's,1,0,1,1,home_win,2026
+2025-2026,2026-02-11,Pompiers,Gendrim,0,0,0,0,draw,2026
+2025-2026,2026-02-10,Nouakchott Academy,Nouadhibou,1,2,3,-1,away_win,2026
+2025-2026,2026-02-09,Inter Nouakchott,Nzeidane,2,0,2,2,home_win,2026
+2025-2026,2026-02-08,Chemal,Tevragh-Zeina,0,2,2,-2,away_win,2026
+2025-2026,2026-02-07,Police,Douane,1,1,2,0,draw,2026
+2025-2026,2026-02-07,SNIM,Kaedi,1,1,2,0,draw,2026
+2025-2026,2026-02-06,Nouakchott King's,Ksar,2,2,4,0,draw,2026
+2025-2026,2026-02-02,Chemal,Nouakchott Academy,0,0,0,0,draw,2026
+2025-2026,2026-02-01,Nzeidane,Nouakchott King's,2,6,8,-4,away_win,2026
+2025-2026,2026-02-01,Tevragh-Zeina,Douane,0,0,0,0,draw,2026
+2025-2026,2026-02-01,Gendrim,Inter Nouakchott,0,0,0,0,draw,2026
+2025-2026,2026-02-01,Ksar,Police,1,1,2,0,draw,2026
+2025-2026,2026-02-01,Kaedi,Pompiers,1,1,2,0,draw,2026
+2025-2026,2026-01-31,Nouadhibou,SNIM,0,0,0,0,draw,2026
+2025-2026,2026-01-28,Nouakchott Academy,Tevragh-Zeina,3,1,4,2,home_win,2026
+2025-2026,2026-01-27,Pompiers,Nouadhibou,0,4,4,-4,away_win,2026
+2025-2026,2026-01-26,Police,Nzeidane,1,2,3,-1,away_win,2026
+2025-2026,2026-01-25,Nouakchott King's,Gendrim,2,0,2,2,home_win,2026
+2025-2026,2026-01-24,Inter Nouakchott,Kaedi,1,1,2,0,draw,2026
+2025-2026,2026-01-24,SNIM,Chemal,2,1,3,1,home_win,2026
+2025-2026,2026-01-23,Douane,Ksar,3,0,3,3,home_win,2026
+2025-2026,2026-01-20,Nouadhibou,Kaedi,1,0,1,1,home_win,2026
+2025-2026,2026-01-13,Police,Gendrim,2,1,3,1,home_win,2026
+2025-2026,2026-01-12,Pompiers,Chemal,1,2,3,-1,away_win,2026
+2025-2026,2026-01-11,Douane,Nzeidane,0,1,1,-1,away_win,2026
+2025-2026,2026-01-11,SNIM,Nouakchott Academy,0,0,0,0,draw,2026
+2025-2026,2026-01-11,Tevragh-Zeina,Ksar,0,2,2,-2,away_win,2026
+2025-2026,2026-01-10,Kaedi,Nouakchott King's,0,0,0,0,draw,2026
+2025-2026,2026-01-10,Inter Nouakchott,Nouadhibou,0,2,2,-2,away_win,2026
+2025-2026,2026-01-06,Nouadhibou,Nouakchott King's,1,1,2,0,draw,2026
+2025-2026,2026-01-05,Nouakchott Academy,Pompiers,1,2,3,-1,away_win,2026
+2025-2026,2026-01-04,Gendrim,Douane,0,1,1,-1,away_win,2026
+2025-2026,2026-01-03,Chemal,Inter Nouakchott,3,1,4,2,home_win,2026
+2025-2026,2026-01-03,Kaedi,Police,0,4,4,-4,away_win,2026
+2025-2026,2026-01-03,Nzeidane,Ksar,1,0,1,1,home_win,2026
+2025-2026,2026-01-03,SNIM,Tevragh-Zeina,1,1,2,0,draw,2026
+2025-2026,2025-12-31,Nouadhibou,Nouakchott Academy,0,0,0,0,draw,2025
+2025-2026,2025-12-30,Ksar,Gendrim,0,1,1,-1,away_win,2025
+2025-2026,2025-12-30,Nouakchott King's,Chemal,1,1,2,0,draw,2025
+2025-2026,2025-12-29,Pompiers,SNIM,1,1,2,0,draw,2025
+2025-2026,2025-12-28,Douane,Kaedi,1,0,1,1,home_win,2025
+2025-2026,2025-12-27,Police,Nouadhibou,1,1,2,0,draw,2025
+2025-2026,2025-12-26,Inter Nouakchott,Nouakchott Academy,0,2,2,-2,away_win,2025
+2025-2026,2025-12-26,Tevragh-Zeina,Nzeidane,2,2,4,0,draw,2025
+2025-2026,2025-12-22,Nouadhibou,Douane,3,2,5,1,home_win,2025
+2025-2026,2025-12-21,SNIM,Inter Nouakchott,3,2,5,1,home_win,2025
+2025-2026,2025-12-21,Chemal,Police,1,1,2,0,draw,2025
+2025-2026,2025-12-20,Kaedi,Ksar,1,1,2,0,draw,2025
+2025-2026,2025-12-20,Nouakchott Academy,Nouakchott King's,2,0,2,2,home_win,2025
+2025-2026,2025-12-19,Gendrim,Nzeidane,1,2,3,-1,away_win,2025
+2025-2026,2025-12-18,Pompiers,Tevragh-Zeina,1,0,1,1,home_win,2025
+2025-2026,2025-12-16,Ksar,Nouadhibou,0,2,2,-2,away_win,2025
+2025-2026,2025-12-16,Nouakchott King's,SNIM,2,3,5,-1,away_win,2025
+2025-2026,2025-12-14,Police,Nouakchott Academy,0,1,1,-1,away_win,2025
+2025-2026,2025-12-13,Tevragh-Zeina,Gendrim,1,2,3,-1,away_win,2025
+2025-2026,2025-12-13,Nzeidane,Kaedi,4,3,7,1,home_win,2025
+2025-2026,2025-12-13,Douane,Chemal,0,3,3,-3,away_win,2025
+2025-2026,2025-12-12,Inter Nouakchott,Pompiers,1,2,3,-1,away_win,2025
+2025-2026,2025-12-11,SNIM,Nouadhibou,0,1,1,-1,away_win,2025
+2025-2026,2025-12-09,Nouakchott Academy,Douane,2,4,6,-2,away_win,2025
+2025-2026,2025-12-08,Inter Nouakchott,Tevragh-Zeina,0,0,0,0,draw,2025
+2025-2026,2025-12-07,Kaedi,Gendrim,0,0,0,0,draw,2025
+2025-2026,2025-12-07,Nouadhibou,Nzeidane,2,1,3,1,home_win,2025
+2025-2026,2025-12-06,Chemal,Ksar,1,0,1,1,home_win,2025
+2025-2026,2025-12-06,SNIM,Police,1,1,2,0,draw,2025
+2025-2026,2025-12-05,Pompiers,Nouakchott King's,2,0,2,2,home_win,2025
+2025-2026,2025-12-03,Gendrim,Nouadhibou,0,2,2,-2,away_win,2025
+2025-2026,2025-12-02,Douane,SNIM,2,1,3,1,home_win,2025
+2025-2026,2025-11-30,Nouakchott King's,Inter Nouakchott,1,1,2,0,draw,2025
+2025-2026,2025-11-30,Tevragh-Zeina,Kaedi,2,1,3,1,home_win,2025
+2025-2026,2025-11-29,Ksar,Nouakchott Academy,0,2,2,-2,away_win,2025
+2025-2026,2025-11-29,Nzeidane,Chemal,1,0,1,1,home_win,2025
+2025-2026,2025-11-29,Police,Pompiers,1,1,2,0,draw,2025
+2025-2026,2025-11-23,Inter Nouakchott,Police,1,1,2,0,draw,2025
+2025-2026,2025-11-22,Nouakchott Academy,Nzeidane,1,2,3,-1,away_win,2025
+2025-2026,2025-11-21,Nouakchott King's,Tevragh-Zeina,1,1,2,0,draw,2025
+2025-2026,2025-11-20,Pompiers,Douane,0,0,0,0,draw,2025
+2025-2026,2025-11-19,Chemal,Gendrim,3,4,7,-1,away_win,2025
+2025-2026,2025-11-19,SNIM,Ksar,1,0,1,1,home_win,2025
+2025-2026,2025-11-10,Police,Nouakchott King's,2,0,2,2,home_win,2025
+2025-2026,2025-11-09,Gendrim,Nouakchott Academy,2,2,4,0,draw,2025
+2025-2026,2025-11-09,Kaedi,Chemal,2,0,2,2,home_win,2025
+2025-2026,2025-11-08,Nzeidane,SNIM,1,1,2,0,draw,2025
+2025-2026,2025-11-08,Tevragh-Zeina,Nouadhibou,0,2,2,-2,away_win,2025
+2025-2026,2025-11-08,Ksar,Pompiers,2,3,5,-1,away_win,2025
+2025-2026,2025-11-08,Douane,Inter Nouakchott,6,1,7,5,home_win,2025
+2025-2026,2025-11-05,Nouakchott Academy,Kaedi,3,0,3,3,home_win,2025
+2025-2026,2025-11-04,Police,Tevragh-Zeina,1,1,2,0,draw,2025
+2025-2026,2025-11-03,Chemal,Nouadhibou,0,3,3,-3,away_win,2025
+2025-2026,2025-11-02,Pompiers,Nzeidane,3,1,4,2,home_win,2025
+2025-2026,2025-11-01,Nouakchott King's,Douane,1,2,3,-1,away_win,2025
+2025-2026,2025-11-01,SNIM,Gendrim,1,2,3,-1,away_win,2025
+2025-2026,2025-10-31,Inter Nouakchott,Ksar,3,0,3,3,home_win,2025
+2025-2026,2025-10-26,Gendrim,Pompiers,0,0,0,0,draw,2025
+2025-2026,2025-10-25,Douane,Police,3,3,6,0,draw,2025
+2025-2026,2025-10-25,Kaedi,SNIM,1,3,4,-2,away_win,2025
+2025-2026,2025-10-25,Ksar,Nouakchott King's,0,1,1,-1,away_win,2025
+2025-2026,2025-10-25,Nzeidane,Inter Nouakchott,4,1,5,3,home_win,2025
+2025-2026,2025-10-25,Tevragh-Zeina,Chemal,1,1,2,0,draw,2025
+2025-2026,2025-10-22,Inter Nouakchott,Gendrim,0,1,1,-1,away_win,2025
+2025-2026,2025-10-21,Police,Ksar,3,0,3,3,home_win,2025
+2025-2026,2025-10-20,Douane,Tevragh-Zeina,2,1,3,1,home_win,2025
+2025-2026,2025-10-19,Nouakchott King's,Nzeidane,1,1,2,0,draw,2025
+2025-2026,2025-10-18,Pompiers,Kaedi,2,1,3,1,home_win,2025
+2025-2026,2025-10-17,Nouakchott Academy,Chemal,1,2,3,-1,away_win,2025
+2025-2026,2025-10-07,Tevragh-Zeina,Nouakchott Academy,2,1,3,1,home_win,2025
+2025-2026,2025-10-04,Gendrim,Nouakchott King's,1,1,2,0,draw,2025
+2025-2026,2025-10-04,Kaedi,Inter Nouakchott,1,0,1,1,home_win,2025
+2025-2026,2025-10-04,Nzeidane,Police,0,1,1,-1,away_win,2025
+2025-2026,2025-10-03,Chemal,SNIM,0,0,0,0,draw,2025
+2025-2026,2025-10-03,Nouadhibou,Pompiers,0,0,0,0,draw,2025
+2025-2026,2025-10-03,Ksar,Douane,0,2,2,-2,away_win,2025

@@ -1,0 +1,7 @@
+confluent-kafka
+numpy
+pandas
+requests
+pyarrow
+matplotlib
+scikit-learn
